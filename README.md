@@ -2,7 +2,10 @@
 single point help reference for lovely people
 
 ## how to use 
-This is a collection of files. If you would like to contribute to the collection please try the following. 
+
+This is a collection of files. If you just want to discuss, comment or raise an issue you can try Issues, Discussions, Projects or Wiki. 
+
+If you would like to contribute to the codebase please try the following.
 
 # step 1: Copy, or clone to your own pc
 
@@ -10,10 +13,9 @@ Click the little green button here to find out more.
 
 ![ask me how](https://user-images.githubusercontent.com/25202975/128230633-b1f8eeda-8847-4bcc-a320-606e45f1fe16.png)
 
-1. enter the following at a terminal. 
+1. Type the following at a terminal. 
 
-```git clone https://github.com/chryket/autonomousAI.git
-```
+`git clone https://github.com/chryket/autonomousAI.git`
 
 you should get something that looks like this....
 
@@ -28,17 +30,13 @@ Resolving deltas: 100% (4/4), done.
 
 2. change directory into the newly created folder
 
-```cd autonomousAI
-
-```
+`cd autonomousAI`
 
 3. Now create a sandbox where you can play without breaking anything. it'll make a copy or "branch" of where things are at the moment. 
 
-```git checkout branch yourweirdnamehere
+`git checkout branch yourweirdnamehere`
 
-```
-
-i created a branch called staging. I made a few changes to some files, added a file, then thought it would be nice to get some feedback, so I "push" my local changes to the "remote" so we can all discuss. 
+ I created a branch called staging. I made a few changes to some files, added a file, then thought it would be nice to get some feedback, so I "push" my local changes to the "remote" so we can all discuss. 
 
 4. type git status to check first. 
 
@@ -46,17 +44,14 @@ i created a branch called staging. I made a few changes to some files, added a f
 
 5. Add files..just trust me for now
 
-```git add -A 
-
-```
+`git add -A`
 
 ![Screenshot from 2021-08-04 20-25-03](https://user-images.githubusercontent.com/25202975/128234596-ccc2619b-5e42-4d59-9ec5-c6422867254e.png)
 
 6. commit the changes and write a message saying what you've done
 
-```git commit -am 'your message here'
+`git commit -am 'your message here'`
 
-```
 
 ![Screenshot from 2021-08-04 20-30-13](https://user-images.githubusercontent.com/25202975/128235315-b12596a5-55a9-4270-ac67-2228a77a629b.png)
 
@@ -72,7 +67,7 @@ or
 
 
 
-
+8 . Congratulations. 
 
 
 
