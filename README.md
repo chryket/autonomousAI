@@ -62,12 +62,16 @@ i created a branch called staging. I made a few changes to some files, added a f
 
 7. Finally push your changes.
 
+<<<<<<< HEAD
 `git push`
 
 or 
 
 `git push --set-upstream origin yourweirdname the first time
 `
+=======
+git push
+>>>>>>> staging
 
 
 
