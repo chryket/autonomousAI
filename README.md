@@ -1,5 +1,5 @@
 # autonomousAI
-single point help reference for lovely people
+
 
 ## how to use 
 
