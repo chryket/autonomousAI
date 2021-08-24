@@ -88,3 +88,7 @@ This is a one-way promise, or covenant. "We will treat you this way regardless o
     _A Prayer for Writers, Journalists and All Who Broadcast
 
     Almighty God, who proclaimed your truth by the voice of prophets and wise men: direct those who speak where many listen, and those who write where many read; that they may do thier part in making the heart of the people wise, its mind sound, and its will righteous; to the honour and glory of your name.
+
+	Bishop Geoff Quinlan
+
+
