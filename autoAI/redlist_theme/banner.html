@@ -1,0 +1,10 @@
+<!-- thanks to https://codepen.io/wschern/pen/grXwra -->
+<div class="block">
+	<div class="animation">		
+			{% for pic in page.meta.bannerpics %}
+			<div class="first">
+				<img src = {{ pic }} alt={{ pic }} style="height: 100px;">
+			</div>
+			{% endfor %}
+	</div>
+</div>

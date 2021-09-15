@@ -1,12 +1,13 @@
-site_name: Die Rooi Gevaar
-theme:
-  name: mkdocs
-  custom_dir: redlist_theme/
+site_name: Trudat
 extra_css: 
   - css/redlist.css
   - css/w3.css
-extra_javascript: 
-  - js/splash.js
+extra_javascript:
+  - js/banner.js
+theme:
+  name: journal
+  custom_dir: redlist_theme
+
 
     
    

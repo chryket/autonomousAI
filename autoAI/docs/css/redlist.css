@@ -1,0 +1,33 @@
+.block {
+	overflow: hidden;
+  	width: 100%;
+  	margin: 10px auto;
+  	background: #fff;	
+}
+.animation {
+  width: auto;
+  height: 100px;
+  font-size: 0px;
+}
+.animation div {
+  display: inline-block;
+  width: auto;
+  float: none;
+  padding: 0 10px;
+}
+
+div.scrollmenu {
+  display: inline-flex;
+  width: auto;
+  overflow: auto;
+  }
+
+.card-text {
+    word-wrap: break-word;
+    text-align: center;
+}
+.newsbox {
+  overflow: hidden;
+  max-width: auto;
+  }
+
